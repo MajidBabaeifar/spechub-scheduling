@@ -3,6 +3,7 @@ specfork: 1
 name: "@specfork/scheduling"
 summary: Booking pages with availability, team round robin, calendar sync, payments and webhooks.
 license: CC-BY-4.0
+tags: [saas, calendar]
 requires:
   "@specfork/auth": "^0.3.0"
   "@specfork/teams": "^0.3.0"

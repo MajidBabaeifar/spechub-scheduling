@@ -18,6 +18,7 @@ derived_from:
 
 People and teams publish booking pages; others book time without an account.
 Behaviour derived from Cal.com's open-source code (Cal.diy, MIT), written fresh and stack-free.
+Not affiliated with or endorsed by Cal.com, Inc. The name is used only to credit the source.
 
 | Area | Prefix | Covers |
 |---|---|---|
